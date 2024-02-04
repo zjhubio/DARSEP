@@ -37,6 +37,16 @@ The DARSEP-PMLM model can be trained with an ipynb file in the following folder:
 ```
 /src/training/DARSEP-PMLM/DARSEP-PMLM.ipynb
 ```
-### Analysis
+### Downstream Analysis
 #### Clustering Analysis
 Cluster analysis was performed using sequence sets and optimized sequence sets following the ipynb code below:
+```
+/anaylysis/clusterA.ipynb
+/anaylysis/clusterB.ipynb
+/anaylysis/clusterC.ipynb
+```
+#### Constructing Evolutionary Fields
+Perform the evolutionary field analysis using the sequence set and the optimized sequence set following the ipynb code below:
+```
+/anaylysis/
+```
