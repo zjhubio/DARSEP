@@ -60,3 +60,5 @@ Semantic syntax analysis of VOCs
 ```
 /anaylysis/VOCs.ipynb
 ```
+## Others
+This project was developed based on [EvoPlay] (https://github.com/melobio/EvoPlay) and authored by [Yi Wang].
