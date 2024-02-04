@@ -1,1 +1,1 @@
-This project uses code from the `EvoPlay`.
+This part uses code from the `EvoPlay`, the papaer is **Self-play reinforcement learning guides protein engineering**.
