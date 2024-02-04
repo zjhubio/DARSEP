@@ -5,3 +5,5 @@ Here we propose DARSEP, a reinforcement learning-based self-game sequence optimi
 - `src` : Python code of DARSEP-SPRLM and DARSEP-PMLM
 - `results` : Directory for the results
 - `analysis` : Jupyter notebooks for all the analysis and plots
+## Requirements
+### Hardware requirements
