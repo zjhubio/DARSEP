@@ -48,5 +48,10 @@ Cluster analysis was performed using sequence sets and optimized sequence sets f
 #### Constructing Evolutionary Fields
 Perform the evolutionary field analysis using the sequence set and the optimized sequence set following the ipynb code below:
 ```
+/anaylysis/evolocity.ipynb
+```
+#### Prediction of Missense Variant Effects
+Missense mutation analysis was performed for each locus using wild sequences according to the following code
+```
 /anaylysis/
 ```
