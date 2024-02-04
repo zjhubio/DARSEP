@@ -7,6 +7,7 @@ Here we propose DARSEP, a reinforcement learning-based self-game sequence optimi
 - `analysis` : Jupyter notebooks for all the analysis and plots
 ## Requirements
 ### Hardware requirements
-Trained and tested on one NVIDIA RTX 3090 with 24GB GPU memory
-For storing all intermediate files for all methods and all datasets, approximately 8G of disk space will be needed.
+- Trained and tested on one NVIDIA RTX 3090 with 24GB GPU memory.
+- For storing all intermediate files for all methods and all datasets, approximately 8G of disk space will be needed.
+### Software requirements
 
