@@ -32,3 +32,11 @@ The fitness of each sequence is calculated according to the sequence set, the mu
 ```
 /src/training/DARSEP-SPRLM/fitnessOptimize.ipynb
 ```
+#### DARSEP-PMLM
+The DARSEP-PMLM model can be trained with an ipynb file in the following folder:
+```
+/src/training/DARSEP-PMLM/DARSEP-PMLM.ipynb
+```
+### Analysis
+#### Clustering Analysis
+Cluster analysis was performed using sequence sets and optimized sequence sets following the ipynb code below:
