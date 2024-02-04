@@ -53,5 +53,10 @@ Perform the evolutionary field analysis using the sequence set and the optimized
 #### Prediction of Missense Variant Effects
 Missense mutation analysis was performed for each locus using wild sequences according to the following code
 ```
-/anaylysis/
+/anaylysis/MissenseAnalysis.ipynb
+```
+#### VOCs Analysis
+Semantic syntax analysis of VOCs
+```
+/anaylysis/VOCs.ipynb
 ```
