@@ -28,4 +28,7 @@ https://drive.google.com/file/d/1RQe0bf1zwSGFgTVnRs4VmodTbMfOhLgL/view?usp=drive
 ## Usage
 ### Training
 #### DARSEP-SPRLM
-The fitness of each sequence is calculated according to the sequence set, the mutation fitness table for each locus is in the `/data` folder, and we also provide the calculated data set in the `seqs_fitness.txt`.
+The fitness of each sequence is calculated according to the sequence set, the mutation fitness table for each locus is in the `/data` folder, and we also provide the calculated data set in the `seqs_fitness.txt`.Trained models can be in the ipynb file in the following folder: 
+```
+/src/DARSEP-SPRLM/
+```
