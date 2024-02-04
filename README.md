@@ -1,2 +1,2 @@
 # DARSEP
-Analysis of antigenic variation and evolution of COVID-19 based on self game sequence optimization and RetNet
+Here we propose DARSEP, a reinforcement learning-based self-game sequence optimization and RetNet learning network-based SARS-CoV-2 spike protein sequence modelling approach that can predict evolutionary sequences and explore antigenic evolution.
