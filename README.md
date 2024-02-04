@@ -15,4 +15,4 @@ In conda environment, follow the following command to install the necessary envi
 pip install -r requirements.txt
 ```
 ## Data downlaod
-GISAD dataset repuires authentication, and registration is needed to access the data. Therefore, we can't provide the data directly. So we download the data from their web: https://www.gisaid.org.And we pre-process the data to match the model inputs.
+GISAD dataset repuires authentication, and registration is needed to access the data. Therefore, we can't provide the data directly. So we download the data from their web: https://www.gisaid.org. And we pre-process the data to match the model inputs.
