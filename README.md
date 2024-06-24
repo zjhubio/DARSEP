@@ -26,11 +26,11 @@ The DARSEP-PMLM model can be download at:
 https://drive.google.com/file/d/1RQe0bf1zwSGFgTVnRs4VmodTbMfOhLgL/view?usp=drive_link
 ```
 ## Installation
-我们提供了可供直接安装的python软件包，用户可直接安装调用方法，安装代码如下:
+We provide python packages for direct installation, users can install the call method directly, the installation code is as follows.
 ```
 pip install DARSEP -i https://pypi.python.org/simple
 ```
-具体的使用方法，请查看：
+For details on how to use it, please check:
 ```
 https://zjhubio.github.io/DARSEP.github.io/DARSEP/install.html
 ```
