@@ -58,7 +58,7 @@ Missense mutation analysis was performed for each locus using wild sequences acc
 #### VOCs Analysis
 Semantic syntax analysis of VOCs
 ```
-/anaylysis/VOCs.ipynb
+/analysis/VOCs.ipynb
 ```
 ## Others
 Some part of this project was developed based on [EvoPlay] (https://github.com/melobio/EvoPlay) and authored by [Yi Wang].
