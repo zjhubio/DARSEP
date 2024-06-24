@@ -30,7 +30,10 @@ https://drive.google.com/file/d/1RQe0bf1zwSGFgTVnRs4VmodTbMfOhLgL/view?usp=drive
 ```
 pip install DARSEP -i https://pypi.python.org/simple
 ```
-具体的使用方法，请查看https://zjhubio.github.io/DARSEP.github.io/DARSEP/install.html
+具体的使用方法，请查看：
+```
+https://zjhubio.github.io/DARSEP.github.io/DARSEP/install.html
+```
 
 ## Usage
 ### Training
